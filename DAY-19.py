@@ -51,6 +51,19 @@
 # name("RAJESH")
 
 
+# 3.keyword arguments:
+# In the arguments can be passed with parameter values.
+
+# def details(name,age,address,phnnum,gender):
+#     print(f""" Your name is {name},your are of age {age}, you live at {address} your phone number is {phnnum}.""")
+# details(address="Hyderabad",age=20,name="Rajesh",phnnum=9160463808,gender="male")
+
+
+
+
+
+
+
 
 
 
